@@ -5,6 +5,14 @@ This repository contains my **chapter-by-chapter implementations and experiments
 
 The goal of this project is to **understand and implement the full LLM training pipeline from first principles**, without relying on high-level abstractions.
 
+## 🎥 Video Lectures (Bilibili)
+
+🧠 From first principles: attention, GPT-style models, pretraining, fine-tuning, and LoRA 
+
+This repository is accompanied by **full lecture recordings**, where I explain the concepts, code, and design decisions step by step.
+
+> 👉 https://www.bilibili.com/video/BV1JjBoBpEFe/
+
 ---
 
 ## 🎯 Objective
